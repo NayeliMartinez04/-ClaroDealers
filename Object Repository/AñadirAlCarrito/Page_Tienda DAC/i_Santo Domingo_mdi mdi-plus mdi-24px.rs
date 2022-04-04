@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Santo Domingo_mdi mdi-plus mdi-24px</name>
+   <tag></tag>
+   <elementGuidId>c3dfa334-6937-40a7-8de5-a5e44321cf3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='app']/div/div/div[2]/div/div[2]/div/div[2]/div/table/tbody/tr/td[3]/div/div/p[2]/button/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.mdi.mdi-plus.mdi-24px</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdi mdi-plus mdi-24px</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;is-clipped&quot;]/body[1]/div[@id=&quot;app&quot;]/section[1]/section[@id=&quot;app&quot;]/div[@class=&quot;columns is-gapless&quot;]/div[@class=&quot;column&quot;]/div[@class=&quot;content-app&quot;]/div[@class=&quot;modal is-active custom-modal&quot;]/div[@class=&quot;animation-content&quot;]/div[@class=&quot;product-availability modal-card&quot;]/div[@class=&quot;b-table base-table&quot;]/div[@class=&quot;table-wrapper has-mobile-cards&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[1]/td[3]/div[@class=&quot;field has-numberinput has-numberinput-compact&quot;]/div[@class=&quot;b-numberinput field counter-button has-addons&quot;]/p[@class=&quot;control plus&quot;]/button[@class=&quot;button is-primary is-rounded&quot;]/span[@class=&quot;icon&quot;]/i[@class=&quot;mdi mdi-plus mdi-24px&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='app']/div/div/div[2]/div/div[2]/div/div[2]/div/table/tbody/tr/td[3]/div/div/p[2]/button/span/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/button/span/i</value>
+   </webElementXpaths>
+</WebElementEntity>
