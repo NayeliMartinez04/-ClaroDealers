@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Iniciar</name>
+   <name>button_Volver a comprar</name>
    <tag></tag>
-   <elementGuidId>1acc9480-923e-43a0-aefa-60822233a59e</elementGuidId>
+   <elementGuidId>d1673899-f44c-4886-a3d1-e05995880139</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.button</value>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[11]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@type='button']</value>
+         <key>CSS</key>
+         <value>div.order-buttons > button.button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -42,62 +42,62 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Iniciar</value>
+      <value>Volver a comprar</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@id=&quot;app&quot;]/section[1]/section[@id=&quot;app&quot;]/div[@class=&quot;columns is-gapless&quot;]/div[@class=&quot;column&quot;]/div[@class=&quot;content-app&quot;]/div[1]/div[@class=&quot;login&quot;]/div[@class=&quot;login-content&quot;]/div[1]/div[@class=&quot;login-component&quot;]/div[@class=&quot;login-button&quot;]/button[@class=&quot;button&quot;]</value>
+      <value>/html[1]/body[1]/div[@id=&quot;app&quot;]/section[1]/section[@id=&quot;app&quot;]/div[@class=&quot;columns is-gapless&quot;]/div[@class=&quot;column&quot;]/div[@class=&quot;content-app&quot;]/main[@class=&quot;shopping-history&quot;]/div[2]/div[@class=&quot;collapse card&quot;]/div[@class=&quot;collapse-content&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;content&quot;]/div[1]/div[2]/div[@class=&quot;shopping-history-product-item-container&quot;]/div[@class=&quot;order-item&quot;]/div[@class=&quot;order-item-divider&quot;]/div[@class=&quot;function-features&quot;]/div[@class=&quot;order-buttons&quot;]/button[@class=&quot;button&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@type='button']</value>
+      <value>(//button[@type='button'])[11]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='app']/div/div/div/div/div/div/div/div/div[3]/button</value>
+      <value>//section[@id='app']/div/div/div[2]/main/div[2]/div/div[2]/div/div/div/div[2]/div/div/div/div[3]/div/button</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contraseña'])[1]/following::button[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estado de orden: Pendiente'])[1]/following::button[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Correo'])[1]/following::button[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estado de pago:'])[1]/following::button[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Olvidaste tu contraseña?'])[1]/preceding::button[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar orden'])[1]/preceding::button[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
+      <value>//div[3]/div/button</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Iniciar' or . = 'Iniciar')]</value>
+      <value>//button[@type = 'button' and (text() = 'Volver a comprar' or . = 'Volver a comprar')]</value>
    </webElementXpaths>
 </WebElementEntity>
