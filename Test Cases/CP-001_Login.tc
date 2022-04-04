@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>CP-001 Login. Creado por Adonis Guerrero Peralta.</description>
+   <name>CP-001_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a49245b8-4c12-45b4-931c-3671584ccf56</testCaseGuid>
+</TestCaseEntity>
