@@ -19,9 +19,19 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('login'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.verifyElementPresent(findTestObject('CancelarOrden/Page_Tienda DAC/a_Mis pedidos'), 0)
+
+WebUI.verifyElementClickable(findTestObject('CancelarOrden/Page_Tienda DAC/a_Mis pedidos'))
+
 WebUI.click(findTestObject('Object Repository/CancelarOrden/Page_Tienda DAC/a_Mis pedidos'))
 
-WebUI.click(findTestObject('Object Repository/CancelarOrden/Page_Tienda DAC/button_Cancelar orden'))
+WebUI.verifyElementPresent(findTestObject('CancelarOrden/Page_Tienda DAC/button_Cancelar orden'), 0)
+
+WebUI.verifyElementClickable(findTestObject('CancelarOrden/Page_Tienda DAC/button_Cancelar orden'))
+
+WebUI.click(findTestObject('CancelarOrden/Page_Tienda DAC/button_Cancelar orden'))
+
+WebUI.verifyElementPresent(findTestObject('CancelarOrden/Page_Tienda DAC/div_Fallo al Cancelar la orden'), 0)
 
 WebUI.click(findTestObject('Object Repository/CancelarOrden/Page_Tienda DAC/div_Fallo al Cancelar la orden'))
 
