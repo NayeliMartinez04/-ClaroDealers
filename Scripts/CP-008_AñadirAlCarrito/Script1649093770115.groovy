@@ -27,6 +27,8 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('Object Repository/AñadirAlCarrito/Page_Tienda DAC/button_Todos'))
 
+WebUI.delay(3)
+
 WebUI.verifyElementPresent(findTestObject('AñadirAlCarrito/Page_Tienda DAC/div_Apple MacBook Pro 13-inch'), 0)
 
 WebUI.verifyElementClickable(findTestObject('AñadirAlCarrito/Page_Tienda DAC/div_Apple MacBook Pro 13-inch'))
@@ -87,7 +89,11 @@ WebUI.click(findTestObject('Object Repository/AñadirAlCarrito/Page_Tienda DAC/b
 WebUI.verifyElementPresent(findTestObject('AñadirAlCarrito/Page_Tienda DAC/div_Apple MacBook Pro 13-inch    Item ID 70_ce90e5'), 
     0)
 
+WebUI.delay(3)
+
 WebUI.click(findTestObject('Object Repository/AñadirAlCarrito/Page_Tienda DAC/div_Apple MacBook Pro 13-inch    Item ID 70_ce90e5'))
+
+WebUI.delay(3)
 
 WebUI.closeBrowser()
 
