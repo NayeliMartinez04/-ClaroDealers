@@ -6,12 +6,12 @@
    <elementGuidId>ba9dab54-7f62-4db3-88e1-ed790b81f2a3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//section[@id='app']/div/div/div[2]/div/div/div/div/div[6]/span[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//section[@id='app']/div/div/div[2]/div/div/div/div/div[4]/span[2]</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>15530255-9868-48cc-bfca-ac8a7b0b9f0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Configuración</value>
+      <webElementGuid>ca639a3d-8e7f-451a-85b0-74a88e59a592</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,13 +38,39 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@id=&quot;app&quot;]/section[1]/section[@id=&quot;app&quot;]/div[@class=&quot;columns is-gapless&quot;]/div[@class=&quot;column&quot;]/div[@class=&quot;content-app&quot;]/div[@class=&quot;partner-profile&quot;]/div[1]/div[@class=&quot;partner-profile-container&quot;]/div[@class=&quot;partner-left-side&quot;]/div[@class=&quot;profile-settings&quot;]/span[2]</value>
+      <webElementGuid>01693311-77af-4e0a-a67b-398a90e3dcaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2ddab041-4e8f-41c1-bf61-099378fdc5c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Configuración</value>
+      <webElementGuid>fb3218c4-2931-42f4-80a3-0694ada5f7ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@id=&quot;app&quot;]/section[1]/section[@id=&quot;app&quot;]/div[@class=&quot;columns is-gapless&quot;]/div[@class=&quot;column&quot;]/div[@class=&quot;content-app&quot;]/div[@class=&quot;partner-profile&quot;]/div[1]/div[@class=&quot;partner-profile-container&quot;]/div[@class=&quot;partner-left-side&quot;]/div[@class=&quot;profile-settings&quot;]/span[2]</value>
+      <webElementGuid>7a41689c-2b12-49a6-bce0-3a73d31fb247</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='app']/div/div/div[2]/div/div/div/div/div[4]/span[2]</value>
+      <value>//section[@id='app']/div/div/div[2]/div/div/div/div/div[6]/span[2]</value>
+      <webElementGuid>3d888c4b-dd56-47bd-adaa-2f889483ee96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -50,6 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cambiar contraseña'])[1]/following::span[1]</value>
+      <webElementGuid>900fbf4a-7ccf-44d3-a440-b946a32401de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,6 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Solvex'])[1]/following::span[2]</value>
+      <webElementGuid>11adf51c-ddee-4c02-b302-15d211d7ad1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No. Almacén'])[1]/preceding::span[1]</value>
+      <webElementGuid>241d0c1d-b72e-44f7-ab4a-a2bab086725a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,13 +102,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre'])[1]/preceding::span[1]</value>
+      <webElementGuid>d2c3ebe3-a16d-46d4-8729-e84737152a1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/span[2]</value>
+      <value>//div[6]/span[2]</value>
+      <webElementGuid>ddd2cd74-0a56-40db-b7bf-1be505bc12dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,5 +118,22 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Configuración' or . = 'Configuración')]</value>
+      <webElementGuid>53f21784-1b12-4e49-bc31-f977497e7b77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='app']/div/div/div[2]/div/div/div/div/div[4]/span[2]</value>
+      <webElementGuid>74088d9a-8881-470b-a083-bfb31449e1f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/span[2]</value>
+      <webElementGuid>617c9c62-ddda-4021-b44a-f1e10a95e55e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
