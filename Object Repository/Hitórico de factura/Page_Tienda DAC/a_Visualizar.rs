@@ -6,12 +6,12 @@
    <elementGuidId>6d510e4f-4625-470d-8d10-f9597aa422b3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.button.is-primary.download-button</value>
+         <key>XPATH</key>
+         <value>//section[@id='app']/div/div/div[2]/main/section/div[2]/article/a</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//section[@id='app']/div/div/div[2]/main/section/article/a</value>
+         <key>CSS</key>
+         <value>a.button.is-primary.download-button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
+      <webElementGuid>b0674243-14b1-4d4d-aa7f-f7efcf2118e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://transparencia.indotel.gob.do/media/9703/res-no-052-17.pdf</value>
+      <webElementGuid>6df9fe6e-60b9-4a51-8f89-3344b8cc63ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +38,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_blank</value>
+      <webElementGuid>704720c7-3dbb-4a51-9ee7-3ea579c65ffc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button is-primary download-button</value>
+      <webElementGuid>1211c085-72dc-43d1-9a4f-8b88049eb9e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,6 +54,55 @@
       <name>text</name>
       <type>Main</type>
       <value> Visualizar </value>
+      <webElementGuid>8ad76ede-1f70-4b72-880b-e820c2b505e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@id=&quot;app&quot;]/section[1]/section[@id=&quot;app&quot;]/div[@class=&quot;columns is-gapless&quot;]/div[@class=&quot;column&quot;]/div[@class=&quot;content-app&quot;]/main[@class=&quot;bill-history&quot;]/section[@class=&quot;bill-history-list&quot;]/div[2]/article[@class=&quot;bill-history-item&quot;]/a[@class=&quot;button is-primary download-button&quot;]</value>
+      <webElementGuid>7a941758-b4a1-44a2-8dba-b8f4f53ef7f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6f6c87af-c468-4d7c-aded-023488e5723d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://transparencia.indotel.gob.do/media/9703/res-no-052-17.pdf</value>
+      <webElementGuid>d441102c-a5d9-4955-b1b5-e1f3b2b6e33f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>0c8a627a-ce46-454a-b6e5-d94806580381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button is-primary download-button</value>
+      <webElementGuid>1b4cc5c0-acdf-43b6-b1e6-a058114d14e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Visualizar </value>
+      <webElementGuid>820e5cb9-577a-4dac-8d44-e4cdd87b6dee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,13 +110,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@id=&quot;app&quot;]/section[1]/section[@id=&quot;app&quot;]/div[@class=&quot;columns is-gapless&quot;]/div[@class=&quot;column&quot;]/div[@class=&quot;content-app&quot;]/main[@class=&quot;bill-history&quot;]/section[@class=&quot;bill-history-list&quot;]/article[@class=&quot;bill-history-item&quot;]/a[@class=&quot;button is-primary download-button&quot;]</value>
+      <webElementGuid>0efc8a61-b048-4351-9352-0db8def506c0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='app']/div/div/div[2]/main/section/article/a</value>
+      <value>//section[@id='app']/div/div/div[2]/main/section/div[2]/article/a</value>
+      <webElementGuid>e1fa59e3-5530-47bd-b247-15fbfc9ff240</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='RD$10,000.00'])[1]/following::a[1]</value>
+      <webElementGuid>3d2fb319-c7b7-4e8e-9d9e-6f8ebd881a0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Total de la orden'])[1]/following::a[1]</value>
+      <webElementGuid>bd962791-e52c-4f7d-bd3c-a397431ab8e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Factura para orden #mzj30'])[1]/preceding::a[1]</value>
+      <webElementGuid>829e1263-5da8-4488-aa48-faa23a065f23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +150,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://transparencia.indotel.gob.do/media/9703/res-no-052-17.pdf')]</value>
+      <webElementGuid>0786dde0-04d7-4a18-a38b-d549e3a037a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +158,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//article/a</value>
+      <webElementGuid>b25159f1-c6ad-4b17-b2e7-e4aa8c29f277</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,5 +166,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://transparencia.indotel.gob.do/media/9703/res-no-052-17.pdf' and (text() = ' Visualizar ' or . = ' Visualizar ')]</value>
+      <webElementGuid>872f187b-a36a-40c8-8a94-5067409c4e2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='app']/div/div/div[2]/main/section/article/a</value>
+      <webElementGuid>6d012c96-f88c-432c-8f6a-4f7e1faf4051</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
